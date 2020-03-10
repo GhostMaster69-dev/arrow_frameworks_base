@@ -86,4 +86,6 @@
     <!-- StatusBar burn-in protection -->
     <bool name="config_statusBarBurnInProtection">false</bool>
 
+    <!-- FPSInfoService FPS node file path -->
+    <string name="config_fpsInfoSysNode" translatable="false"></string>
 </resources>
