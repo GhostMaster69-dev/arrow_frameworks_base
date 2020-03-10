@@ -75,4 +75,6 @@
          before the screen has had chance to switch out of HBM mode -->
      <integer name="config_udfpsDimmingDisableDelay">0</integer>
 
+    <!-- FPSInfoService FPS node file path -->
+    <string name="config_fpsInfoSysNode" translatable="false"></string>
 </resources>
