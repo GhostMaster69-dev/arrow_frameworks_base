@@ -220,5 +220,6 @@ public class SecureSettings {
         Settings.Secure.IGNORE_AUTH_CONFIRMATION,
         Settings.Secure.SECURE_LOCKSCREEN_QS_DISABLED,
         Settings.Secure.POWER_MENU_HIDE_ON_SECURE,
+        Settings.Secure.GESTURE_NAVBAR_LENGTH_MODE,
     };
 }
