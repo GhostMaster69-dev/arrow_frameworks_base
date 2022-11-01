@@ -5715,6 +5715,12 @@ public final class Settings {
         public static final String SMART_CHARGING_RESET_STATS = "smart_charging_reset_stats";
 
         /**
+         * Whether to show IME space
+         * @hide
+         */
+        public static final String HIDE_IME_SPACE_ENABLE = "hide_ime_space_enable";
+
+        /**
          * These are all public system settings
          *
          * @hide
