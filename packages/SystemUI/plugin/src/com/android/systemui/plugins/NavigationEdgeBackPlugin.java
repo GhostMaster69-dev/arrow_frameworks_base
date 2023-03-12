@@ -37,7 +37,7 @@ public interface NavigationEdgeBackPlugin extends Plugin {
     void setIsLeftPanel(boolean isLeftPanel);
 
     /** Specifies if the arrow animation is shown for back gesture. */
-    void setBackArrowVisibility(boolean backArrowVisibility);
+    default void setBackArrowVisibility(boolean backArrowVisibility) {}
 
     /** Sets the insets for the gesture handling area. */
     void setInsets(int leftInset, int rightInset);
